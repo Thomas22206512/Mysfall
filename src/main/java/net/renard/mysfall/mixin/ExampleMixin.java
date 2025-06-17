@@ -1,4 +1,4 @@
-package net.renard.mixin;
+package net.renard.mysfall.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

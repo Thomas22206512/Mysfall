@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.renard.Mysfall"
+			"net.renard.mysfall.Mysfall"
 		],
 		"fabric-datagen": [
-			"net.renard.MysfallDataGenerator"
+			"net.renard.mysfall.MysfallDataGenerator"
 		]
 	},
 	"mixins": [

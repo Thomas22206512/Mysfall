@@ -1,4 +1,4 @@
-package net.renard;
+package net.renard.mysfall;
 
 import net.fabricmc.api.ModInitializer;
 
