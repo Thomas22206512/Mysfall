@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:has_structure/ancient_city",
+    "minecraft:deep_dark"
+  ]
+}

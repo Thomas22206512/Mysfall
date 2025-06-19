@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"net.renard.mysfall.MysfallDataGenerator"
+		],
+		"client": [
+			"net.renard.mysfall.MysfallClient"
 		]
 	},
 	"mixins": [
